@@ -1,4 +1,4 @@
-## Loads Of Languages (LOL) is a super-parallal corpora crawler for multilingual NLP and Computational Linguistics
+## Lots Of Languages (LOL) is a super-parallal corpora crawler for multilingual NLP and Computational Linguistics
 
 <strong>Developer and maintainer</strong>: <a href='https://llp.berkeley.edu/asgari/'>Ehsaneddin Asgari </a>(<span style="color: #0000ff;">asgari [at] cis [dot] lmu [dot] de</span>)
 <br/>
