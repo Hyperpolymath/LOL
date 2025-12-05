@@ -1,4 +1,4 @@
-## 1000Langs is a super-parallal corpora crawler for multilingual NLP and Computational Linguistics
+## Loads Of Languages (LOL) is a super-parallal corpora crawler for multilingual NLP and Computational Linguistics
 
 <strong>Developer and maintainer</strong>: <a href='https://llp.berkeley.edu/asgari/'>Ehsaneddin Asgari </a>(<span style="color: #0000ff;">asgari [at] cis [dot] lmu [dot] de</span>)
 <br/>
@@ -11,15 +11,15 @@ Please feel free to report any technical issue by sending an email or reporting 
 
 ### Installation and running
 
-The 1000Langs is written in Python3. For the detailed installation and running guideline see the <a href='https://github.com/ehsanasgari/1000langs/tree/master/run_crawler'> installation guideline </a>.
+The original LOL - 1000Langs - was written in Python3 (the only terrible aspect of the original design). For the detailed installation and running guideline see the <a href='https://github.com/ehsanasgari/1000Langs/tree/master/run_crawler'> installation guideline </a>.
 
 
 <hr />
 
 ### List of covered languages
 
-The 1000Langs super-parallel crawler currently supports crawling of 1500+ unique languages, that are crawled through multiple sources of bible corpora.
-Here you can find the list of languages covered by 1000Langs crawler to date (Dec 2018). These language are subject to change based on changes in the crawling sources.
+The LOL super-parallel crawler currently supports crawling of 1500+ unique languages, that are crawled through multiple sources of bible corpora.
+Here you can find the list of languages covered by LOL crawler to date (Dec 2018). These language are subject to change based on changes in the crawling sources.
 
 <table border="1" class="dataframe">
   <thead>
@@ -7666,16 +7666,16 @@ Here you can find the list of languages covered by 1000Langs crawler to date (De
 
 <hr/>
 
-### Comparison of 1000Langs and the massive parallel corpora
+### Comparison of LOL and the massive parallel corpora
 
-Here we compare language coverage of massively parallel corpus and 1000Langs:
+Here we compare language coverage of massively parallel corpus and LOL:
 
 ![download](https://user-images.githubusercontent.com/8551117/50157022-981cfb00-02d0-11e9-9459-5e318e62ea70.png)
 
 
 
-In  1199  out iso codes of  1526  total, 1000Langs crawled larger max verses for the iso code!
-In  912  out iso codes of  1239  total intersection, 1000Langs crawled larger max verses for the iso code!
+In  1199  out iso codes of  1526  total, LOL crawled larger max verses for the iso code!
+In  912  out iso codes of  1239  total intersection, LOL crawled larger max verses for the iso code!
 
 For a detailed comparison please see 'reports>comparison.xlsx'.
 
